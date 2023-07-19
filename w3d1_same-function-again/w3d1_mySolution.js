@@ -17,3 +17,4 @@ function same(str) {
  Closure
    - https://www.tutorialsteacher.com/javascript/closure-in-javascript
 */
+cd ..
